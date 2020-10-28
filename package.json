@@ -11,9 +11,11 @@
     "font-awesome": "4.7.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-redux": "7.2.0",
     "react-router-dom": "5.2.0",
     "react-scripts": "3.4.3",
     "reactstrap": "^8.6.0",
+    "redux": "4.0.5",
     "typeface-lobster": "^1.1.13",
     "typeface-open-sans": "^1.1.13"
   },
